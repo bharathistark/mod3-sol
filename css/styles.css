@@ -26,7 +26,7 @@ body {
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #adf0f0;
-  font-size: 2em;
+  font-size: 1.8em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
@@ -48,8 +48,8 @@ body {
 }
 
 @media (max-width: 767px){
-	.navbar-brand h1{
-		font-size: 1.5em;
+	.navbar-brand h1 {
+	font-size: 1.5em;
 	}
 #nav-list {
   margin-top: 10px;
